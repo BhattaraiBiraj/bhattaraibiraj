@@ -40,5 +40,5 @@
 
 <details>
   <summary>⚡ GitHub Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhattaraibiraj&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BhattaraiBiraj&show_icons=true&theme=default" alt="GitHub Stats" />
 </details>
