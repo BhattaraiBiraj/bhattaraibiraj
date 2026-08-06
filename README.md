@@ -35,10 +35,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
   &nbsp;&nbsp;
 </p>
-
-<br>
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=BhattaraiBiraj&show_icons=true&theme=default" alt="GitHub Stats" />
-</details>
+<hr>
