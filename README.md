@@ -11,7 +11,7 @@
   <a href="https://chess.com/member/birajbhattarai" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/chessdotcom.svg" width="32" height="32"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="mailto:birajbhattarai299@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="32" height="32"/> </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=birajbhattarai299@gmail.com" target="_blank"> <img src="https://cdn.simpleicons.org/gmail" width="32" height="32"/> </a>
 </p>
 
 ### Languages and Tools:
